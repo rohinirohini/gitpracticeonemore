@@ -9,7 +9,9 @@ public class Aaa {
 		System.out.println("for chaking commit difference with diff command ");
 		System.out.println("for chaking commit difference with diff command ");
 		
-		System.out.println("for branch in local");
+		System.out.println("for branch in local to merge in master");
+	
+	 System.out.println("for merge from branch3 to master");
 	}
 
 	public static void main(String[] args) {
