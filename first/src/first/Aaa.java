@@ -12,6 +12,8 @@ public class Aaa {
 		System.out.println("for branch in local to merge in master");
 	
 	 System.out.println("for merge from branch3 to master");
+	 
+	 System.out.println(" local branch 3 for commit");
 	}
 
 	public static void main(String[] args) {
