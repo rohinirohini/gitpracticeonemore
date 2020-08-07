@@ -15,10 +15,13 @@ public class Aaa {
 	 
 	 System.out.println(" local branch 3 for commit");
 	 System.out.println("brach creation in github and checkout in local ,and then commit in github");
+<<<<<<< HEAD
 	 
 	 System.out.println("************");
 	 System.out.println("************");
 	 
+=======
+>>>>>>> branch4
 	}
 
 	public static void main(String[] args) {
