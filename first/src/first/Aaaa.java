@@ -1,10 +1,8 @@
-
 package first;
 
-public class Aaa {
+public class Aaaa {
 
-	public Aaa() {
-
+	public Aaaa() {
 		// TODO Auto-generated constructor stub
 	}
 
