@@ -10,7 +10,7 @@ public class Second {
 		// TODO Auto-generated method stub
 
 		System.out.println("package");
-		System.out.println("for rebase example in second");
+		System.out.println("for rebase example in secondpkg from github");
 		
 		
 	}
