@@ -16,6 +16,8 @@ public class Aaa {
 	 System.out.println(" local branch 3 for commit");
 	 
 	 System.out.println("for rebase ");
+	 
+	 System.out.println("for rebase ........");
 	}
 
 	public static void main(String[] args) {
