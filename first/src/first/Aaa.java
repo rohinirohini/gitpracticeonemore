@@ -4,7 +4,10 @@ package first;
 public class Aaa {
 
 	public Aaa() {
-		
+
+		// TODO Auto-generated constructor stub
+	
+
 	}
 
 	public static void main(String[] args) {
@@ -12,6 +15,9 @@ public class Aaa {
 
 		
 		System.out.println(" commit from master for merge ");
+
+		System.out.println("branch commit for merge");
+
 	}
 
 }
