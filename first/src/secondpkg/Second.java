@@ -12,6 +12,8 @@ public class Second {
 		System.out.println("package");
 		System.out.println("for rebase example in secondpkg from github");
 		
+		System.out.println("abcd abcd ");
+		
 		
 	}
 
