@@ -1,4 +1,4 @@
-package second;
+package secondpkg;
 
 public class Second {
 
